@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning at kabarak University studying BSc. IT
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei and other great Tech companies.
 - 📫 How to reach me tel: 0790079618 email: musangowilly@gmail.com
-- connect eith me:
+- connect with me:
+- 
+
 
 <!---
 musango-willy/musango-willy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
