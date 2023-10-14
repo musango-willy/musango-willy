@@ -5,6 +5,7 @@
 - 📫 How to reach me tel: 0790079618 email: musangowilly@gmail.com
 - connect with me:
 - https://holopin.me/musangowilly2023
+- https://www.credly.com/badges/f35329ab-16a6-49e9-9cfa-ba408c29fc5f/public_url
 
 
 [![An image of @musangowilly2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/musangowilly2023)](https://holopin.io/@musangowilly2023)
