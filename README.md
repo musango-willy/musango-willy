@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musango-willy
 - 👀 I’m interested in Software Engineering,Machine Learning,Data Science,prompt engineering and andriod.
-- 🌱 I’m currently graduated at kabarak University with BSc. IT Degree.
+- 🌱 I currently graduated at kabarak University with BSc. IT Degree -december 2023.
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
 - 📫 How to reach me tel: 0790079618 email: musangowilly@gmail.com
 - connect with me:
