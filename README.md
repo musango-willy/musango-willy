@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software Engineering,Machine Learning,Data Science,prompt engineering and andriod.
 - 🌱 I currently graduated at kabarak University with BSc. IT Degree -december 2023.
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
-- 📫 How to reach me tel: 0790079618 email: musangowilly@gmail.com
+- 📫 How to reach me tel: 0790079618
+- email: musangowilly@gmail.com
+-  email: wycliffemusango@gmail.com
 - connect with me:
 - https://holopin.me/musangowilly2023
 - https://www.credly.com/badges/f35329ab-16a6-49e9-9cfa-ba408c29fc5f/public_url
