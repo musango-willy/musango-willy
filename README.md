@@ -8,7 +8,7 @@
 - connect with me:
 - social media contacts
 - facebook
-- x
+- x https://x.com/WycliffeMusango?t=
 - instagram
 - 
 - https://holopin.me/musangowilly2023
