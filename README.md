@@ -8,6 +8,7 @@
 - connect with me:
 - social media contacts
 - facebook
+- linkedIn -https://www.linkedin.com/in/musango-willy-b1a845256
 - x https://x.com/WycliffeMusango?t=
 - instagram
 - 
