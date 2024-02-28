@@ -3,10 +3,12 @@
 - 🌱 I currently graduated at kabarak University with BSc. IT Degree -december 2023.
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
 - 📫 How to reach me tel: 0790079618
-- email: musangowilly@gmail.com
--  email: wycliffemusango@gmail.com
+- Email accounts;
+- email 1: musangowilly@gmail.com
+-  email 2: wycliffemusango@gmail.com
+-  email 3:wmusango@kabarak.ac.ke
 - connect with me:
-- social media contacts
+- social media accounts;
 - facebook
 - linkedIn -https://www.linkedin.com/in/musango-willy-b1a845256
 - x https://x.com/WycliffeMusango?t=
