@@ -12,7 +12,7 @@
 - facebook
 - linkedIn -https://www.linkedin.com/in/musango-willy-b1a845256
 - x https://x.com/WycliffeMusango?t=
-- instagram
+- instagram : t.me/joinchat/xblCk0ufrDMzNDk0
 - 
 - https://holopin.me/musangowilly2023
 - https://www.credly.com/badges/f35329ab-16a6-49e9-9cfa-ba408c29fc5f/public_url
