@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musango-willy
-- 👀 I’m interested in Software Engineering,Machine Learning,Data Science,prompt engineering and andriod.
+- 👀 I’m interested in Software Engineering,Machine Learning,Data Science,prompt engineering and andriod  apps development.
 - 🌱 I currently graduated at kabarak University with BSc. IT Degree -december 2023.
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
 - 
