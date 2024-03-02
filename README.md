@@ -15,6 +15,9 @@
 - instagram : t.me/joinchat/xblCk0ufrDMzNDk0
 - Telegram :
 
+- SKILLS
+- Front end developer
+
 - CERTIFICATIONS & BADGES:
 - https://holopin.me/musangowilly2023
 - https://www.credly.com/badges/f35329ab-16a6-49e9-9cfa-ba408c29fc5f/public_url
