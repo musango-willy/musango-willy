@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
 
 - currently learning:
-- .net framwork
+- .net framework
+- deep learning
 -  
 - 📫 How to reach me :
 - Phone number: 0790079618
