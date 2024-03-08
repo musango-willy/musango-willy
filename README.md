@@ -6,6 +6,8 @@
 - currently learning:
 - .net framework
 - deep learning
+-  django
+-  react
 -  
 - 📫 How to reach me :
 - Phone number: 0790079618
