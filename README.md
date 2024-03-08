@@ -25,7 +25,10 @@
 - SKILLS
 - Front end developer
 - cyber security essentials
-- 
+
+- INTERESTS:
+- Nuxt.js
+- next.js
 
 - CERTIFICATIONS & BADGES:
 - https://holopin.me/musangowilly2023
