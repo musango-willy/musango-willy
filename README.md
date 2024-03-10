@@ -18,7 +18,7 @@
 -  email 3:wmusango@kabarak.ac.ke
 - connect with me:
 - social media accounts;
-- facebook
+- facebook :wyckie musa
 - linkedIn -https://www.linkedin.com/in/musango-willy-b1a845256
 - x -https://x.com/WycliffeMusango?t=
 - instagram : t.me/joinchat/xblCk0ufrDMzNDk0
