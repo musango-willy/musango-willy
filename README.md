@@ -22,7 +22,7 @@
 - linkedIn -https://www.linkedin.com/in/musango-willy-b1a845256
 - x -https://x.com/WycliffeMusango?t=
 - instagram : t.me/joinchat/xblCk0ufrDMzNDk0
-- Telegram :
+- Telegram :wky
 
 - SKILLS
 - Front end developer
