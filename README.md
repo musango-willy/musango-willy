@@ -6,7 +6,7 @@
 - currently learning:
 - .net framework
 - deep learning
--  django
+-  django framework
 -  react
 -  
 - 📫 How to reach me :
