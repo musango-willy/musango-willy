@@ -31,6 +31,7 @@
 - INTERESTS:
 - Nuxt.js
 - next.js
+- prompt engineering
 
 - CERTIFICATIONS & BADGES:
 - https://holopin.me/musangowilly2023
