@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musango-willy
-- 👀 I’m interested in Software Engineering,Machine Learning,Data Science,prompt engineering and andriod  apps development.
+- 👀 I’m interested in Software Engineering,Machine Learning,Data Scienceand prompt engineering .
 - 🌱 I graduated at kabarak University with BSc. IT Degree -december 2023.
 - 💞️ I’m looking to collaborate on Google,Microsoft ,Huawei ,safaricom and other great Tech companies.
 
@@ -27,6 +27,7 @@
 - SKILLS
 - Front end developer
 - cyber security essentials
+- android apps development
 
 - INTERESTS:
 - Nuxt.js
