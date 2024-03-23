@@ -8,6 +8,7 @@
 - deep learning
 -  django framework
 -  react
+-  Generative AI
 -  
 - 📫 How to reach me :
 - Phone number: 0790079618
